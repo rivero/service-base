@@ -16,6 +16,9 @@
 * THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
 * EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED
 * WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE.
+* -------------------------------------
+* Please add LOCAL SERVICE and NETWORK SERVICE 
+* to the security properties of the folder the executable is.
 \***************************************************************************/
 
 
